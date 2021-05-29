@@ -2,8 +2,6 @@ package Dao;
 
 import javax.persistence.EntityManager;
 
-import Model.Pessoa;
-import Model.Produto;
 import Model.Projeto;
 
 public class ProjetoDao {

@@ -3,7 +3,6 @@ package Dao;
 import javax.persistence.EntityManager;
 
 import Model.Pessoa;
-import Model.Produto;
 
 public class PessoaDao {
 	
